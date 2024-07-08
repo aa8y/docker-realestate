@@ -1,0 +1,5 @@
+flask==3.0.3
+flask_restful==0.3.10
+homeharvest==0.3.32
+marshmallow==3.21.3
+requests==2.32.3
